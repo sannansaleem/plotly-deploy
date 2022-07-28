@@ -100,7 +100,7 @@ function buildCharts(sample) {
     // 9. Create the layout for the bar chart. 
     var barLayout = {
       title: "Top 10 Bacteria Cultures Found",
-      titlefont: {"size": 25},
+      titlefont: {"size": 20},
       xaxis: {title: "Sample Value"}
     };
     
