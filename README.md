@@ -83,4 +83,4 @@ The goals of this challenge are for us to:
   - The gauge fits in the margin of the <div> element.
 - When the webpage loads, the bar and bubble chart are working according to the requirements in Deliverable 1 and 2, respectively, and the gauge chart is working according to the requirements listed for this Deliverable 
 
-
+Various customizations were made throughout the dashboard including changesto the jumbotron header, background fills for the drop-down menus, and font formatting.
